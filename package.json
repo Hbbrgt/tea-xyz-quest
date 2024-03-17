@@ -1,10 +1,10 @@
 {
-  "name": "@Hbbrgt/tea-xyz-quest",
+  "name": "@hbbrgt/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@melihc",
-  "repository": "https://github.com/Hbbrgt/tea-xyz-quest.git",
+  "author": "@hbbrgt",
+  "repository": "https://github.com/hbbrgt/tea-xyz-quest.git",
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.2.2",
